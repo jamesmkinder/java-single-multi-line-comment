@@ -38,6 +38,9 @@
 
     </details>
 
+<details open='true'>
+  <summary>English</summary>
+
 # Learn Single-line & Multi-line Comments
 
 [This program](https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java) comes from a famous realworld opensource project [Guava](https://github.com/google/guava).
@@ -68,7 +71,7 @@ And vice versa.
 ## Challenge
 - Convert single-line comments to multi-line comments, and multi-line comments to single-line comments in [this class](https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java).
   **DO NOT change the content of the comments.**
-- 创建一个Pull Request。
+- Create a pull request.
 - The bot will check your PR and tell you if you accomplish the challenge.
 - Go back to [ByteLegend](https://bytelegend.com) and continue your hero journey.
 
@@ -76,3 +79,5 @@ And vice versa.
 Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java`
+
+</details>
