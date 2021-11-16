@@ -28,7 +28,7 @@ public class ArrayBasedUnicodeEscaperTest {
     }
 
     private String singleline(String content) {
-        return "//\\s*" + content;
+        return "//\\s*\\*?\\s*" + content;
     }
 
     private String multiline(String content) {
