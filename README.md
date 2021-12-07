@@ -28,8 +28,10 @@
 
   ## 挑战
   - 将[这个程序](https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java)的单行注释改成多行注释，多行注释改成单行注释。**不要修改注释内容本身。**
-  - 创建一个Pull Request。
-  - 机器人将会检查你的PR，告诉你你是否通过了挑战。
+  - 你可以使用任意一种方法完成挑战（最好先在自己的本地电脑上测试通过）：
+    - 使用下面的网页编辑器。
+    - 创建一个GitHub Pull Request。
+  - 机器人将会检查你的答案，告诉你你是否通过了挑战。
   - 回到[字节传说](https://bytelegend.com)，然后继续你的英雄旅程。
 
   **注意：我们只允许您修改以下文件，任何对其他文件的修改都会被拒绝：**
