@@ -41,7 +41,6 @@ Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java`
 </details>
-
 <details>
 <summary>简体中文</summary>
 
@@ -83,7 +82,6 @@ Any changes to files other than the following files will be rejected:**
 
 - `src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java`
 </details>
-
 <details>
 <summary>繁體中文</summary>
 
@@ -94,7 +92,6 @@ Hi
 Hello
 */
 </code></pre><p>反之亦然。</p><h2>挑戰</h2><ul><li><a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">在這個類</a>中將單行註釋轉換為多行註釋，將多行註釋轉換為單行註釋。<strong>不要更改評論的內容。</strong></li><li>創建拉取請求。</li><li>機器人將檢查您的 PR 並告訴您是否完成了挑戰。</li><li>回到<a href="https://bytelegend.com" target="_blank">ByteLegend</a> ，繼續你的英雄之旅。</li></ul><p><strong>注意：我們只允許您修改以下文件。對以下文件以外的文件的任何更改都將被拒絕：</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Español</summary>
 
@@ -105,7 +102,6 @@ Hi
 Hello
 */
 </code></pre><p>Y viceversa.</p><h2> Desafío</h2><ul><li> Convierta comentarios de una sola línea en comentarios de varias líneas y comentarios de varias líneas en comentarios de una sola línea en <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">esta clase</a> . <strong>NO cambie el contenido de los comentarios.</strong></li><li> Crea una solicitud de extracción.</li><li> El bot comprobará tus relaciones públicas y te dirá si logras el desafío.</li><li> Vuelve a <a href="https://bytelegend.com" target="_blank">ByteLegend</a> y continúa tu viaje de héroe.</li></ul><p> <strong>Nota: solo le permitimos modificar los siguientes archivos. Se rechazará cualquier cambio en archivos que no sean los siguientes:</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>العربية</summary>
 
@@ -116,7 +112,6 @@ Hi
 Hello
 */
 </code></pre><p style=";text-align:right;direction:rtl">والعكس صحيح.</p><h2 style=";text-align:right;direction:rtl"> تحد</h2><ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> قم بتحويل التعليقات أحادية السطر إلى تعليقات متعددة الأسطر ، وتعليقات متعددة الأسطر إلى تعليقات أحادية السطر في <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">هذا الفصل</a> . <strong>لا تغير محتوى التعليقات.</strong></li><li style=";text-align:right;direction:rtl"> قم بإنشاء طلب سحب.</li><li style=";text-align:right;direction:rtl"> سيتحقق الروبوت من العلاقات العامة الخاصة بك ويخبرك إذا أنجزت التحدي.</li><li style=";text-align:right;direction:rtl"> ارجع إلى <a href="https://bytelegend.com" target="_blank">ByteLegend وتابع</a> رحلة بطلك.</li></ul><p style=";text-align:right;direction:rtl"> <strong>ملاحظة: نسمح لك فقط بتعديل الملفات التالية. سيتم رفض أي تغييرات يتم إجراؤها على الملفات بخلاف الملفات التالية:</strong></p><ul style=";text-align:right;direction:rtl"><li style=";text-align:right;direction:rtl"> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Português</summary>
 
@@ -127,7 +122,6 @@ Hi
 Hello
 */
 </code></pre><p>E vice versa.</p><h2> Desafio</h2><ul><li> Converta comentários de uma linha em comentários de várias linhas e comentários de várias linhas em comentários de uma linha <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">nesta classe</a> . <strong>NÃO mude o conteúdo dos comentários.</strong></li><li> Crie uma solicitação de pull.</li><li> O bot verificará seu PR e lhe dirá se você cumpriu o desafio.</li><li> Volte para <a href="https://bytelegend.com" target="_blank">ByteLegend</a> e continue sua jornada de herói.</li></ul><p> <strong>Nota: nós apenas permitimos que você modifique os seguintes arquivos. Quaisquer alterações em arquivos que não sejam os seguintes serão rejeitadas:</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Bahasa Indonesia</summary>
 
@@ -138,7 +132,6 @@ Hi
 Hello
 */
 </code></pre><p>Dan sebaliknya.</p><h2> Tantangan</h2><ul><li> Ubah komentar satu baris menjadi komentar multi-baris, dan komentar multi-baris menjadi komentar satu baris di <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">kelas ini</a> . <strong>JANGAN mengubah isi komentar.</strong></li><li> Buat permintaan tarik.</li><li> Bot akan memeriksa PR Anda dan memberi tahu Anda jika Anda menyelesaikan tantangan.</li><li> Kembali ke <a href="https://bytelegend.com" target="_blank">ByteLegend</a> dan lanjutkan perjalanan pahlawan Anda.</li></ul><p> <strong>Catatan: kami hanya mengizinkan Anda untuk mengubah file berikut. Setiap perubahan pada file selain file berikut akan ditolak:</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Français</summary>
 
@@ -149,7 +142,6 @@ Hi
 Hello
 */
 </code></pre><p>Et vice versa.</p><h2> Défi</h2><ul><li> Convertissez les commentaires sur une seule ligne en commentaires sur plusieurs lignes et les commentaires sur plusieurs lignes en commentaires sur une seule ligne dans <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">cette classe</a> . <strong>NE PAS modifier le contenu des commentaires.</strong></li><li> Créez une demande de tirage.</li><li> Le bot vérifiera votre PR et vous dira si vous réussissez le défi.</li><li> Retournez à <a href="https://bytelegend.com" target="_blank">ByteLegend</a> et continuez votre voyage de héros.</li></ul><p> <strong>Remarque : nous vous permettons uniquement de modifier les fichiers suivants. Toute modification apportée aux fichiers autres que les fichiers suivants sera rejetée :</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>日本語</summary>
 
@@ -160,7 +152,6 @@ Hi
 Hello
 */
 </code></pre><p>およびその逆。</p><h2>チャレンジ</h2><ul><li><a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">このクラス</a>では、単一行コメントを複数行コメントに変換し、複数行コメントを単一行コメントに変換します。<strong>コメントの内容は変更しないでください。</strong></li><li>プルリクエストを作成します。</li><li>ボットはPRをチェックし、チャレンジを達成したかどうかを通知します。</li><li> <a href="https://bytelegend.com" target="_blank">ByteLegendに</a>戻り、ヒーローの旅を続けてください。</li></ul><p><strong>注：変更できるのは次のファイルのみです。次のファイル以外のファイルへの変更は拒否されます。</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Русский</summary>
 
@@ -171,7 +162,6 @@ Hi
 Hello
 */
 </code></pre><p>Наоборот.</p><h2> Вызов</h2><ul><li> Преобразуйте однострочные комментарии в многострочные комментарии и многострочные комментарии в однострочные комментарии в <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">этом классе</a> . <strong>НЕ меняйте содержание комментариев.</strong></li><li> Создайте запрос на перенос.</li><li> Бот проверит ваш PR и скажет, справитесь ли вы с задачей.</li><li> Вернитесь в <a href="https://bytelegend.com" target="_blank">ByteLegend</a> и продолжите свой путь героя.</li></ul><p> <strong>Примечание: мы разрешаем вам изменять только следующие файлы. Любые изменения в файлах, кроме следующих, будут отклонены:</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Deutsch</summary>
 
@@ -182,7 +172,6 @@ Hi
 Hello
 */
 </code></pre><p>Und umgekehrt.</p><h2> Herausforderung</h2><ul><li> <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">Konvertieren Sie in dieser Klasse</a> einzeilige Kommentare in mehrzeilige Kommentare und mehrzeilige Kommentare in einzeilige Kommentare. <strong>Ändere NICHT den Inhalt der Kommentare.</strong></li><li> Erstellen Sie eine Pull-Anfrage.</li><li> Der Bot überprüft Ihre PR und teilt Ihnen mit, ob Sie die Herausforderung meistern.</li><li> Gehen Sie zurück zu <a href="https://bytelegend.com" target="_blank">ByteLegend</a> und setzen Sie Ihre Heldenreise fort.</li></ul><p> <strong>Hinweis: Wir erlauben Ihnen nur, die folgenden Dateien zu ändern. Alle Änderungen an Dateien, die nicht die folgenden Dateien sind, werden abgelehnt:</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>한국어</summary>
 
@@ -193,7 +182,6 @@ Hi
 Hello
 */
 </code></pre><p>그 반대.</p><h2> 도전</h2><ul><li> <a href="https://github.com/ByteLegendQuest/java-single-multi-line-comment/blob/main/src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java" target="_blank">이 클래스</a> 에서 한 줄 주석을 여러 줄 주석으로 변환하고 여러 줄 주석을 한 줄 주석으로 변환합니다. <strong>댓글의 내용을 변경하지 마십시오.</strong></li><li> 풀 리퀘스트를 생성합니다.</li><li> 봇은 PR을 확인하고 도전 과제를 달성했는지 알려줍니다.</li><li> <a href="https://bytelegend.com" target="_blank">ByteLegend로</a> 돌아가 영웅 여정을 계속하세요.</li></ul><p> <strong>참고: 다음 파일만 수정할 수 있습니다. 다음 파일 이외의 파일에 대한 모든 변경 사항은 거부됩니다.</strong></p><ul><li> <code class="notranslate">src/main/java/com/google/common/escape/ArrayBasedUnicodeEscaper.java</code></li></ul></details>
-
 <details>
 <summary>Italiano</summary>
 
