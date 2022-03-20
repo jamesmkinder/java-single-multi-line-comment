@@ -1,11 +1,11 @@
 package com.google.common.escape;
 
 public abstract class ArrayBasedUnicodeEscaper {
-    /**
+    /*
     The first code point in the safe range.
      */
     private int safeMin;
-    /**
+    /*
      The last code point in the safe range.
      */
     private int safeMax;
@@ -14,7 +14,7 @@ public abstract class ArrayBasedUnicodeEscaper {
     private char safeMaxChar;
 
     protected ArrayBasedUnicodeEscaper() {
-        /**
+        /*
          This is a bit of a hack but lets us do quicker per-character checks in the fast path code. 
          The safe min/max values are very unlikely to extend into the range of surrogate characters, 
          but if they do we must not test
