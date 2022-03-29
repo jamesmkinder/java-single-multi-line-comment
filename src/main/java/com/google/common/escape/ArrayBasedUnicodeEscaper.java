@@ -11,7 +11,7 @@ public abstract class ArrayBasedUnicodeEscaper {
 
     protected ArrayBasedUnicodeEscaper() {
         /*
-        * This is a bit of a hack but lets us do quicker per-character checks in
+        This is a bit of a hack but lets us do quicker per-character checks in
         the fast path code. The safe min/max values are very unlikely to extend
         into the range of surrogate characters, but if they do we must not test
         any values in that range. To see why, consider the case where:
@@ -34,7 +34,7 @@ public abstract class ArrayBasedUnicodeEscaper {
         }
     }
 
-    /*
+    /**
       This is overridden to improve performance. Rough benchmarking shows that this almost doubles
       the speed when processing strings that do not require any escaping.
      */
