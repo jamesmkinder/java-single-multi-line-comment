@@ -6,7 +6,7 @@ public abstract class ArrayBasedUnicodeEscaper {
     */
     private int safeMin;
     /*
-    // The last code point in the safe range.
+    The last code point in the safe range.
     */
     private int safeMax;
 
