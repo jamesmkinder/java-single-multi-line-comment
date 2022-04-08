@@ -32,15 +32,15 @@ public abstract class ArrayBasedUnicodeEscaper {
         }
     }
 
-    /*
-     * This is overridden to improve performance. Rough benchmarking shows that this almost doubles
-     * the speed when processing strings that do not require any escaping.
-     */
+    
+    //  * This is overridden to improve performance. Rough benchmarking shows that this almost doubles
+    //  * the speed when processing strings that do not require any escaping.
+    
     public final String escape(String s) {
         return s;
     }
 
-    /* Overridden for performance. */
+    // Overridden for performance.
     protected final int nextEscapeIndex(CharSequence csq, int index, int end) {
         return index;
     }
